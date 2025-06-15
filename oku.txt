@@ -1,0 +1,2 @@
+6.Haftada   Kod, öncelikle tam_link değişkenini ekrana yazdırıp "ist.txt" dosyasına ekleme (append) modunda kaydediyor.
+Daha sonra listem adlı URL listesindeki her bağlantıyı haber_linklerini_getir fonksiyonuna göndererek, her bir URL için işlem yapıyor. 
